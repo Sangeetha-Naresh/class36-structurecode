@@ -21,7 +21,7 @@ class Player
       database.ref('/').update(                                 );
     }
   
-    update(name)
+    updateName(name)
     {
       var playerIndex = "player" + ;
       database.ref(                                 ).set(                               );
