@@ -24,7 +24,7 @@ class Form
 
                                 playerCount=            +1;
 
-                               player.update(                );
+                               player.updateName(                );
                                player.updateCount(           );
 
                                 var greeting = createElement('   ');
