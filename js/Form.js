@@ -10,7 +10,7 @@ class Form
       
       var input = createInput("     ");
       var button = createButton('      ');
-      var greeting = createElement('    ');
+     
       
       input.position(    ,   );
       button.position(   ,   );
